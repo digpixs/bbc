@@ -1,0 +1,189 @@
+* { 
+    margin: 0px; 
+    padding: 0px;
+}
+
+img {
+    max-width: 100%;
+    padding: 0px;
+}
+
+
+/* -- Class --*/
+
+.main_container {
+    margin: 10px auto;
+    padding: 0px;
+    overflow: auto;
+} 
+
+.footer_container {
+    width:100%;
+}
+
+.mess_acr img {
+    width: 0px;
+    padding: 0px;
+}
+
+
+/* -- ID -- */
+
+#bbc_logo {
+    float: none;
+}
+
+#motto {
+    margin: 0px;
+    float: none;
+    text-align: center;
+    font-size: .9em;
+}
+
+#hp_info_dub {
+    width: 100%;
+    float: none;
+    padding: 0 0 10px 0;
+    
+}
+
+#hp_info_sig {
+    width: 100%;
+    float: none;
+    padding-top: 10px;
+}
+
+#hp_info h1 {
+    text-align: center;
+}
+
+#hp_info p {
+    text-align: center;
+}
+
+#foot_block {
+    float: left;
+    padding-left: 5px;
+}
+
+#foot_fb {
+    float: right;
+    padding-right: 15px;
+}
+
+#form_con {
+    padding: 5px;
+    width: 100%;
+}
+
+#form_send {
+    width: 45%;
+}
+
+#info_dub {
+    width: 95%;
+    padding: 15px;
+    float: none;
+}
+
+#info_tri {
+    width: 95%;
+    padding: 5px;
+    float: none;
+}
+
+#info_quad {
+    width: 95%;
+    padding: 0 0 10px 15px;
+    float: none;
+}
+
+#map_canvas {
+    max-width: 100%;
+    height: 400px;
+    float: none;
+}
+
+#sidebar {
+    width: 100%;
+	float:none;
+    border-top: 1px solid grey;
+    padding: 10px;
+}
+
+#mess_con {
+    margin: 0 auto;
+    width: 90%;
+    height:300px;
+    padding: 2px;
+	overflow: auto;
+    float: none;
+}
+
+#mess_com li {
+    width: 100%;
+    font-size: 0.05em;
+}
+
+#mess_text {
+    padding: 0px;
+}
+
+#sp_media {
+    margin: 10px auto;
+    width: 40%;
+    border: none;
+    float: none;
+}
+
+#sidebar2 {
+    margin: 20px auto;
+    font-size: .75em;
+    width: 90%;
+	float:none;
+    padding: 5px;
+}
+
+#serv_time {
+    height: 100%;
+    padding: 10px;
+    text-align: center;
+}
+
+#serv_item {
+	display:inherit;
+    padding: 0;
+    width: 100%;
+    
+}
+
+#testmon1 {
+    margin: 10px auto;
+    position: absolute;
+    width: 90%;
+    padding: 2px;
+}
+
+#pray_pic {
+	margin: 0 auto;
+    float: none;
+    right: 0%;
+	width: 100%;
+    padding: 0px;
+    border-radius: 0px;
+    box-shadow: #7e7e7e 0px 0px 0px;
+}
+
+#welcome_vid {
+    width: 100%;
+    float: none;
+    padding: 0px;
+}
+
+#vbsslide {
+    position: relative;
+    margin: 500px auto;
+    padding: 0;
+    float:none; 
+}
+

@@ -1,0 +1,12 @@
+[29-Mar-2015 22:33:53] PHP Fatal error:  Call to a member function query() on a non-object in /hermes/bosnaweb08a/b1518/ipw.myberean/public_html/listen.php on line 44
+[29-Mar-2015 22:33:56] PHP Fatal error:  Call to a member function query() on a non-object in /hermes/bosnaweb08a/b1518/ipw.myberean/public_html/listen.php on line 44
+[29-Mar-2015 22:34:00] PHP Fatal error:  Call to a member function query() on a non-object in /hermes/bosnaweb08a/b1518/ipw.myberean/public_html/listen.php on line 44
+[15-Jun-2015 22:52:58] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /hermes/bosnaweb08a/b1518/ipw.myberean/public_html/prayer_send.php on line 41
+[15-Jun-2015 22:53:21] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /hermes/bosnaweb08a/b1518/ipw.myberean/public_html/prayer_send.php on line 41
+[15-Jun-2015 22:53:35] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /hermes/bosnaweb08a/b1518/ipw.myberean/public_html/prayer_send.php on line 41
+[15-Jun-2015 22:57:04] PHP Parse error:  syntax error, unexpected '>' in /hermes/bosnaweb08a/b1518/ipw.myberean/public_html/prayer_send.php on line 39
+[15-Jun-2015 22:57:47] PHP Parse error:  syntax error, unexpected '>' in /hermes/bosnaweb08a/b1518/ipw.myberean/public_html/prayer_send.php on line 39
+[12-Jul-2015 13:27:19] PHP Parse error:  syntax error, unexpected '}' in /hermes/bosnaweb08a/b1518/ipw.myberean/public_html/contact_send.php on line 44
+[13-Jul-2015 22:30:00] PHP Parse error:  syntax error, unexpected '}' in /hermes/bosnaweb08a/b1518/ipw.myberean/public_html/contact_send.php on line 44
+[13-Jul-2015 22:30:11] PHP Parse error:  syntax error, unexpected '}' in /hermes/bosnaweb08a/b1518/ipw.myberean/public_html/contact_send.php on line 44
+[13-Jul-2015 22:31:26] PHP Parse error:  syntax error, unexpected '}' in /hermes/bosnaweb08a/b1518/ipw.myberean/public_html/contact_send.php on line 44
