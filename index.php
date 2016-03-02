@@ -53,7 +53,7 @@ body {
 
     <div id="serv_time">
         <ul>
-            <li id="serv_item"><span>Sunday 10:30am</span> - Worship Gathering</li>
+            <li id="serv_item"><span>Sunday 11:30am</span> - Worship Gathering</li>
             <li id="serv_item"><span>Wednesday 7:00pm</span> - <a href="mini.php">Life Groups, Awana, Youth Group</a></li>
         </ul>
     </div>

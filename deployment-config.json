@@ -5,5 +5,5 @@
     "password": "Liberty_76",
     "port": 21,
     "remotePath": "/public_html",
-    "uploadOnSave": true
+    "uploadOnSave": false
 }
