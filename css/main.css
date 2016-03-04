@@ -1,5 +1,5 @@
-* { 
-    margin: 0px; 
+* {
+    margin: 0px;
     padding: 0px;
 }
 
@@ -8,7 +8,6 @@ body {
     font-size: 100%;
     font-family: 'Open Sans', sans-serif;
     text-align: center;
-    background-image: url(/img/bkg_winter.jpg);
     background-position: center center;
     background-position: top;
     background-color: #000000;
@@ -55,7 +54,7 @@ p {
 
 a {
     list-style-type: none;
-    color: inherit;  
+    color: inherit;
 }
 
 ul {
@@ -64,7 +63,7 @@ ul {
 }
 
 li {
-    list-style: none; 
+    list-style: none;
     padding: 0 0 0 5px;
 }
 
@@ -104,7 +103,7 @@ select {
     -moz-border-radius: 10px;
     border-radius: 10px;
     padding-left: 5px;
-    line-height: 1.5em;    
+    line-height: 1.5em;
 }
 
 ::-webkit-input-placeholder {
@@ -112,15 +111,15 @@ select {
 }
 
 :-moz-placeholder { /* Firefox 18- */
-   color: #080808;  
+   color: #080808;
 }
 
 ::-moz-placeholder {  /* Firefox 19+ */
-   color: #080808;  
+   color: #080808;
 }
 
-:-ms-input-placeholder {  
-   color: #080808;  
+:-ms-input-placeholder {
+   color: #080808;
 }
 /* -- Class --*/
 
@@ -137,7 +136,7 @@ select {
     box-shadow:#7e7e7e 0px 4px 10px;*/
     width: 100%;
     height: 110px;
-    
+
 }
 
 .header_container {
@@ -163,7 +162,7 @@ select {
 }
 
 .mess_acr {
-   padding: 5px; 
+   padding: 5px;
 }
 
 .footer {
@@ -181,11 +180,11 @@ select {
     width:900px;
     padding:3px;
     bottom: 0;
-} 
+}
 
 .info_area {
     margin: 1px auto;
-    padding-bottom: 2%; 
+    padding-bottom: 2%;
     width:95%;
     height: 100%;
     overflow: hidden;
@@ -246,7 +245,7 @@ select {
 #form_label {
     margin: 0 auto;
     text-align: left;
-    float: left;    
+    float: left;
     padding: 5px;
 }
 
@@ -257,24 +256,24 @@ select {
 }
 
 #hp_info_con {
-    margin: 15px auto; 
+    margin: 15px auto;
     width: 100%;
     height: 100%;
 }
 
 #hp_info_sig {
     text-align: center;
-    float: left; 
+    float: left;
     width: 25%;
     max-width: 100%;
     height: 200px;
     padding-top: 10px;
-} 
+}
 
 #hp_info_sig img {
     padding: 0;
     border-radius: 5px;
-    box-shadow: black 0px 8px 15px; 
+    box-shadow: black 0px 8px 15px;
 }
 
 #hp_info_dub {
@@ -283,20 +282,20 @@ select {
     width: 49%;
     max-width: 100%;
     height: 200px;
-    padding: 5px; 
+    padding: 5px;
 
-} 
+}
 
 #hp_info_dub img {
     padding: 0;
-    box-shadow: grey 0px 8px 15px; 
+    box-shadow: grey 0px 8px 15px;
 }
 
 #info_block {
     width: 95%;
     padding: 15px;
     float: left;
-} 
+}
 
 #info_sig {
     margin: 0px auto;
@@ -370,11 +369,11 @@ select {
 #mess_con::-webkit-scrollbar {
     width: 1em;
 }
- 
+
 #mess_con::-webkit-scrollbar-track {
     -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
 }
- 
+
 #mess_con::-webkit-scrollbar-thumb {
   background-color: darkgrey;
   outline: 1px solid slategrey;
@@ -469,7 +468,7 @@ select {
     background-repeat: no-repeat;
     padding: 15px;
     height: 450px;
-    
+
 }
 
 /*------------------------------------*\
@@ -494,7 +493,7 @@ a:hover {
 }
 
 .nav-list {
-	
+
 }
 
 .nav-item {
@@ -503,7 +502,7 @@ a:hover {
     float:left;
 	*display:inline;
 	zoom:1;
-} 
+}
 
 .nav-item a {
 	display:block;
@@ -537,9 +536,9 @@ a:hover {
 
 @media only screen and (min-width: 320px) and (max-width: 700px) {
 	.nav-mobile {
-		display:block;  
+		display:block;
 	}
-	
+
     .nav {
 		width:100%;
         position:absolute;
@@ -552,7 +551,7 @@ a:hover {
 		display:none;
         padding-top: 20px;
     }
-    
+
 	.nav-item {
 		text-align: center;
         font-size: 1.25em;
@@ -573,12 +572,12 @@ a:hover {
 		display:block;
 	}
 	.nav-mobile-open {
-		border-radius: 0 0 0 0 ; 
+		border-radius: 0 0 0 0 ;
 	}
-} 
+}
 
 @media only screen and (device-width: 768px) and (device-height: 1024px) {
-  
+
 .footer_container {
     margin:5px auto;
     width: 95%;
@@ -586,19 +585,19 @@ a:hover {
     float: left;
     padding:3px;
     bottom: 0;
-}  
-   
+}
+
 #bbc_logo {
     width: 25%;
     float: left;
-}    
+}
 
 #hp_info_sig {
      width: 25%;
      float: left;
     padding-top: 10px;
  }
-    
+
 #hp_info_sig img {
     width: 75%;
 }
@@ -607,12 +606,12 @@ a:hover {
     float: none;
     width: 100%;
 }
- 
+
 #form_con {
     padding: 5px;
     width: 40%;
 }
-    
+
 #info_quad {
     width: 21%;
     padding: 10px;
@@ -621,13 +620,13 @@ a:hover {
 
 #mess_con {
 	margin: 5px auto;
-    width: 70%; 
+    width: 70%;
     height:500px;
 
-}    
+}
 
 #test {
     width: 45%;
 }
-    
+
 }
