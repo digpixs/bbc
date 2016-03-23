@@ -8,6 +8,7 @@ body {
     font-size: 100%;
     font-family: 'Open Sans', sans-serif;
     text-align: center;
+    background-image: url(../img/bkg_bbc.jpg);
     background-position: center center;
     background-position: top;
     background-color: #000000;

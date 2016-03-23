@@ -18,14 +18,15 @@ body {
     <div id="wowslider-container1">
         <div class="ws_images">
             <ul>
-                <!-- <li><img src="img/info_cmaseve.jpg" alt="" title="" id="wows1_cmas"/></a></li> -->
-                <!-- <li><img src="img/info_cmas.jpg" alt="" title="" id="wows1_cmas"/></a></li> -->
-                <!-- <li><img src="img/info_serv_can.jpg" alt="" title="" id="wows1_sc"/></a></li> -->
-                <!-- <li><img src="img/ban_awana_can.jpg" alt="" title="" id="wows1_ac"/></a></li> -->
-                <!-- <li><img src="img/ban_bsm_can.jpg" alt="" title="" id="wows1_bsc"/></a></li> -->
+                <!-- <li><img src="img/info_cmaseve.jpg" alt="" title="" id="wows1_cmas"/></li> -->
+                <!-- <li><img src="img/info_cmas.jpg" alt="" title="" id="wows1_cmas"/></li> -->
+                <!-- <li><img src="img/info_serv_can.jpg" alt="" title="" id="wows1_sc"/></li> -->
+                <!-- <li><img src="img/ban_awana_can.jpg" alt="" title="" id="wows1_ac"/></li> -->
+                <!-- <li><img src="img/ban_bsm_can.jpg" alt="" title="" id="wows1_bsc"/></li> -->
                 <!-- <li><img src="img/info_thanksgiving_pp.jpg" alt="Thanksgiving Prayer" title="" id="wows1_tg"/></li> -->
                 <!-- <li><img src="img/info_thanksgiving.jpg" alt="Thanksgiving Prayer" title="" id="wows1_tg"/></li> -->
-                <!-- <li><img src="img/info_new_year.jpg" alt="" title="" id="wows1_ny"/></a></li> -->
+                <!-- <li><img src="img/info_new_year.jpg" alt="" title="" id="wows1_ny"/></li> -->
+								<li><img src="img/bbc_info_easter.jpg" alt="Easter Service" title="" id="wows1_ny"/></li>
                 <li><img src="img/ban_romans.jpg" alt="Reshaping Romans" title="" id="wows1_nm"/></a></li>
                 <li><img src="img/info_awana.jpg" alt="The start of awana" title="" id="wows1_aw"/></li>
                 <li><a href="mini.php"><img src="img/ban_life_info.jpg" alt="Life Groups" title="" id="wows1_lg"/></a></li>
@@ -44,7 +45,7 @@ body {
             <!-- <a href="#" title="">aw</a> -->
             <a href="#" title="">lg</a>
             <a href="#" title="">new</a>
-            <!-- <a href="#" title="">bsm</a> -->
+            <a href="#" title="">bsm</a>
        	</div>
 
        <div class="ws_shadow"></div>
