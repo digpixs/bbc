@@ -275,7 +275,6 @@ select {
 #hp_info_sig img {
     padding: 0;
     border-radius: 5px;
-    box-shadow: black 0px 8px 15px;
 }
 
 #hp_info_dub {

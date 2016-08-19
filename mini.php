@@ -9,6 +9,8 @@ body {
     background:url(img/bkg_mini.jpg);
     background-position: center center;
     background-position: top;
+		background-color: #000000;
+		background-repeat: repeat-x;
 }
 </style>
 
@@ -25,15 +27,28 @@ body {
 
 		<div id="info_block">
         <div id="info_sig">
-					<ul>
-						<li><span>Ladies</span> (Listening to God) starting Wednesday, June 8th @ 7pm.</li>
-						<li><span>Mixed</span> (Truth Project) starting Tuesday, June 7th @ 7pm.</li>
-						<li><span>Couples</span> (Healthy Marriage) bi-weekly starting Sun, June 12th @ 4pm.</li>
+					<p style="text-align:center;">The summer groups are full and new groups will be starting in the Fall</p> </br>
+					<ul style="text-align:center;">
+						<li><span>Mixed</span> (Truth Project) Tuesday Night, @ 7pm.</li>
+						<li><span>Ladies</span> (Listening to God) Wednesday Night @ 7pm.</li>
+						<li><span>Couples</span> (Healthy Marriage) bi-weekly Sundays @ 4pm.</li>
 					</ul>
 				</div>
 
     </div>
 
+		<div id=""><img src="img/ban_bsm.jpg" alt="Berean Student Ministries"></div>
+			<div id="info_block">
+		    <p>Berean Student Ministry is an extension of Berean in Southern New Jersey area. We are committed to coming alongside students and giving them a place where they can feel accepted and cared for. Our mission is to connect students with God and others.</p>
+			</div>
+
+
+		<div id=""><img src="img/ban_kidkove.jpg" alt="kids kove"></div>
+
+		<div id="info_block">
+
+				<p><span>KIDS KOVE</span> is for ages 4 thru 6th grade.  We want kids to learn about God in a fun and exciting way.  Families get to come to the Worship Gathering together and after the song service, the kids go to the KIDS KOVE where they build friendships and learn about God in a way that is appropriate for them.  We value safety, so all of our volunteers have been trained to work effectively with kids as well as had a background check.</p>
+		</div>
 
     <!-- <div id="info_quad"><h1>Nursery</h1><p>During our church services we have a nursery ministry for children from 6 weeks till 3 years. You'll find our nursery to be clean, organized, safe and fun for them. Our staff consists of volunteer church members that love children &amp; don't mind changing that stinky diaper!</p>
     </div>

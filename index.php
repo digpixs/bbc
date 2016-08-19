@@ -55,18 +55,20 @@ body {
     <div id="serv_time">
 			<div id="serv_item"><span>Sunday 10:30am</span> - Worship Gathering</div>
 			<!-- <div id="serv_item"><span>Wednesday 7:00pm</span> - <a href="mini.php">Life Groups, Awana, Youth Group</a></div> -->
-			<div id="serv_item"><span>Tuesday 7:00pm</span> - Ladies - Listening to God</div>
-			<div id="serv_item"><span>Wednesday 7:00pm</span> - Mixed Group - The Truth Project</div>
+			<div id="serv_item"><span>Tuesday 7:00pm</span> - Mixed Group - The Truth Project</div>
+			<div id="serv_item"><span>Wednesday 7:00pm</span> - Ladies - Listening to God</div>
 			<div id="serv_item"><span>Sunday bi-weekly 4:00pm</span> - Couples (Healthy Marriage)</div>
+		  <p style="text-align:center;">The summer groups are full and new groups will be starting in the Fall</p>
     </div>
 
 
     <div id="hp_info_con">
-				<div id="hp_info_sig"><a href="mini.php" title="Grow with us"><img src="img/info_connection.jpg" alt="connection station"></a></div>
+				<!-- <div id="hp_info_sig"><a href="mini.php" title="Grow with us"><img src="img/info_connection.jpg" alt="connection station"></a></div> -->
         <div id="hp_info_sig"><a href="mini.php" title="summer groups" target="_blank"><img src="img/info_summer.jpg" alt="Summer Groups"></a></div>
         <div id="hp_info_sig"><a href="prayer.php" title="How Can We Pray For You"><img src="img/ele_pray.jpg" alt="How Can We Pray For You"></a></div>
         <!-- <div id="hp_info_sig"><a href="mini.php" title="Grow with us"><img src="img/info_life.jpg" alt="Life Groups"></a></div> -->
         <div id="hp_info_sig"><a href="new.php" title="I'm New"><img src="img/ele_new.jpg" alt="I'm New"></a></div>
+				<div id="hp_info_sig"><a href="history.php" title="Our History"><img src="img/info_history.jpg" alt="Who we are"></a></div>
 
     </div>
 </div>
