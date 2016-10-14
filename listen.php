@@ -43,6 +43,10 @@ body {
 
 <div class="main_container">
 
+	<div id="sidebar2">
+		<h2>To listen to the messages just click on the message title.  For more player control, right-click (mp3) and select "open in new window/tab".  To download select "save target/link as".</h2>
+	</div>
+
 <div id="mess_con">
 	<div id="mess_text">
 	<div id="ubaplayer"></div>
@@ -104,9 +108,7 @@ body {
 	</div>
 </div>
 
-<div id="sidebar2">
-	<h2>To listen to the messages just click on the message.  For more player control, right-click (mp3) and select "open in new window/tab".  To download select "save target/link as".</h2>
-</div>
+
 
 
 <?php include '_footer.php'; ?>

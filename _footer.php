@@ -1,11 +1,11 @@
 </div> <!-- end main container -->
 
-<div class="footer"> 
-    <div class="footer_container">              
+<div class="footer">
+    <div class="footer_container">
         <div id="foot_block"><a href="dir.php"><p><span>Berean</span></br>1030 East Evesham Ave.</br>Magnolia NJ 08049</br>Phone: (856) 784-2668</p></a></div>
         <div id="foot_fb"><a href="https://www.facebook.com/groups/419891871037/" title="Connect with us on Facebook"  target="_blank"><img src="img/bt_fb.png" alt="Facebook Link"></a></div>
     </div>
-    
+
 </div> <!-- end of footer container -->
 <div><h4>©2016 Berean Baptist Church</h4></div>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js" ></script>
@@ -16,17 +16,17 @@
 <!-- mobile -->
     <script>
 		(function () {
-		
+
 		    // Create mobile element
 		    var mobile = document.createElement('div');
 		    mobile.className = 'nav-mobile';
 		    document.querySelector('.nav').appendChild(mobile);
-		
+
 		    // hasClass
 		    function hasClass(elem, className) {
 		        return new RegExp(' ' + className + ' ').test(' ' + elem.className + ' ');
 		    }
-		
+
 		    // toggleClass
 		    function toggleClass(elem, className) {
 		        var newClass = ' ' + elem.className.replace(/[\t\r\n]/g, ' ') + ' ';
@@ -39,7 +39,7 @@
 		            elem.className += ' ' + className;
 		        }
 		    }
-		
+
 		    // Mobile nav function
 		    var mobileNav = document.querySelector('.nav-mobile');
 		    var toggle = document.querySelector('.nav-list');
@@ -50,23 +50,23 @@
 		})();
 		</script>
 
-<!-- player -->    
+<!-- player -->
     <script>
             $(function(){
-            
+
                 $("#ubaplayer").ubaPlayer({
                 codecs: [{name:"MP3", codec: 'audio/mpeg;'}]
                 });
-                
+
                 $(".aShare").on('click',(function() {
 					$(".dShare").hide();
 					$(this).parent().find('.dShare').show();
-					
+
 					console.log(  );
 
                 }));
-                
-                
+
+
             });
         </script>
 
@@ -81,7 +81,7 @@ $(document).ready(function(){
     </script>
 
 <!-- testimonies -->
-    <script> 
+    <script>
         $(document).ready(function() {
 
             $('[id^=testmon]').hide();
@@ -97,8 +97,8 @@ $(document).ready(function(){
                 if (toFadeIn.length == 0)
                 {
                     $('#testmon1').addClass('current').fadeIn(2000);
-                } 
-                else 
+                }
+                else
                 {
                    toFadeIn.addClass('current').fadeIn(2000);
                 }
@@ -108,5 +108,9 @@ $(document).ready(function(){
         });
     </script>
 
-</body> 
+    <!-- home page slide show -->
+    <script src="js/ss.js"></script>
+
+
+</body>
 </html>
